@@ -1,4 +1,4 @@
-import { stories } from '@/data/stories'
+import { stories } from '../../../../data/stories'
 import { notFound } from 'next/navigation'
 
 export default function EpisodePage({ params }) {
