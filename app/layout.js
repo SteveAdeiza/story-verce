@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'StoryVerse - Read Captivating Seasons',
+  title: 'SteveDaniel-Episodes - Read Captivating Seasons',
   description: 'Free stories. 3 seasons. 15 episodes each.'
 }
 
@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
             Facebook
           </a>
           
-          <a href="https://wa.me/2349013284422?text=Hello, I'm from StoryVerse" 
+          <a href="https://wa.me/2349013284422?text=Hello, I'm from SteveDaniel-Episodes" 
              style={{background:'#25D366',color:'white',padding:'12px 16px',
              borderRadius:'50px',textDecoration:'none',fontWeight:'bold',
              boxShadow:'0 4px 12px rgba(0,0,0,0.3)'}}>
