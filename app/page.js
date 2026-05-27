@@ -3,8 +3,8 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <main style={{padding: '40px 20px', maxWidth: '800px', margin: '0 auto'}}>
-      <h1 style={{fontSize: '2.5rem', marginBottom: '10px'}}>StoryVerse</h1>
-      <p style={{opacity: 0.7, marginBottom: '40px'}}>Mature stories by Mr. Steve The Phoenix</p>
+      <h1 style={{fontSize: '2.5rem', marginBottom: '10px'}}>SteveDaniel-Episodes</h1>
+      <p style={{opacity: 0.7, marginBottom: '40px'}}>Episodic Seasonal Stories by Mr. Steve The Phoenix</p>
       
       <Link href="/into-the-badlands/season-1/1" style={cardStyle}>
         <h2 style={{margin: 0}}>Into The Badlands</h2>
