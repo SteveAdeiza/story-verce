@@ -6,7 +6,7 @@ export default function Home() {
       <h1 style={{fontSize: '2.5rem', marginBottom: '10px'}}>SteveDaniel-Episodes</h1>
       <p style={{opacity: 0.7, marginBottom: '40px'}}>Episodic Seasonal Stories by Mr. Steve The Phoenix</p>
       
-      <Link href="/into-the-badlands/season-1/1" style={cardStyle}>
+      <Link href="/into-the-badlands/season/1/1" style={cardStyle}>
         <h2 style={{margin: 0}}>Into The Badlands</h2>
         <p style={{opacity: 0.7, margin: '8px 0 0 0'}}>3 Seasons • 45 Episodes • Start Reading →</p>
       </Link>
