@@ -75,7 +75,7 @@ export default function StoryPage({ params }) {
                 .map(episodeNum => (
                   <Link 
                     key={episodeNum} 
-                    href={`/${storySlug}/season-${seasonNum}/${episodeNum}`}
+                    href={`/${storySlug}/season/${seasonNum}/${episodeNum}`}
                     style={{ textDecoration: 'none' }}
                   >
                     <div style={{
