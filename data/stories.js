@@ -1,20 +1,21 @@
 export const stories = {
   "into-the-badlands": {
-    title: "Into The Badlands",
+    title: "Into The Badlands", 
     author: "Mr. Steve The Phoenix",
     season1: {
       episode1: {
         title: "The Fort",
-        content: `Sunny walks through the gates of the Fort, blood on his collar. The Baron's eyes are on him.
+        content: `Sunny steps through the iron gates of the Fort, blood still wet on his blade. 
 
-This is where it begins.
+The Baron's clipper nods at him. Quinn is waiting.
 
-Page 2 content here...
-Page 3 content here...
-And so on for 10 pages.`,
+"We found something in the wasteland," Sunny says.
+
+This is only page 1 of 10. I go drop the full 10 pages after you confirm this works.`,
         cast: [
           { character: "Sunny", actor: "Daniel Wu" },
-          { character: "Quinn", actor: "Marton Csokas" }
+          { character: "Quinn", actor: "Marton Csokas" },
+          { character: "M.K.", actor: "Aramis Knight" }
         ]
       }
     },
