@@ -450,6 +450,642 @@ The boat slides toward the lights.
 Behind them, far up the river, a single torch flares to life on the water.
 
 Following.`
+            },
+          {
+              page: 6,
+              content: `The Widow's compound has no gates.
+
+Just a gap in the wooden wall wide enough for a cart, guarded by two women in blue armor. They carry no swords. They carry fans. Steel fans with edges that catch the lantern light. They don't stop Tilda's boat. They bow their heads as it slides past.
+
+M.K. counts them. Six guards on the wall. Four more in the yard. All women. All watching him.
+
+Tilda ties the boat to a dock. The water here is still, black as ink. It smells less like dead fish and more like herbs. Something burns in a brazier nearby. Sage and iron.
+
+"Out," Tilda says.
+
+M.K. climbs onto the dock. His legs are unsteady. The collar is still on. The bandage on his neck is soaked through with sweat and river water.
+
+A woman waits for them at the top of the stone steps. She is tall, older than Lydia but younger than death. Her hair is black streaked with gray, pulled back tight. She wears a simple blue dress, no armor, no jewels. Only a ring on her right hand. Jade, carved into the shape of a wasp.
+
+The Widow.
+
+She studies M.K. the way Quinn did. But where Quinn looked for a tool, she looks for a wound.
+
+"So," the Widow says. Her voice is quiet. Everything about her is quiet. That's what makes her dangerous. "You are the Azra boy."
+
+M.K. doesn't answer. He doesn't trust his voice.
+
+Tilda steps forward. "He ran. Sunny let him. Or wanted him to. I'm not sure."
+
+The Widow's eyes flick to Tilda, then back to M.K. "And the clipper who cut his ropes?"
+
+"Dead," M.K. says before Tilda can. "Sunny killed him."
+
+The Widow nods once. Not surprise. Confirmation. "Sunny is cleaning up loose ends. Quinn will know you came here by morning." She turns and starts walking. "Come. We have little time."
+
+They follow her through the yard. Colts stop working to watch. They are all girls here. Some as young as eight, weaving, grinding grain, sharpening fan blades. None of them wear collars.
+
+Inside, the compound is nothing like the Fort. No stone, no iron thrones. Wood floors. Paper screens. Light comes from lanterns, not torches. It smells like tea and paper and something floral M.K. can't name.
+
+The Widow leads them to a room with a low table. Maps cover it. The Badlands drawn in ink, borders marked in red. Quinn's territory is largest. Then the River King's. Then hers. Hers is smallest. But there are marks on the map. X's in places M.K. doesn't know.
+
+"Sit," the Widow says.
+
+M.K. sits. The floor is clean. His knees are dirty. He feels it.
+
+The Widow pours tea into three cups. She pushes one to M.K. "Drink. Veil says you haven't had water in a day."
+
+M.K. stares at the cup. "You know Veil?"
+
+"I know many things." She sips her own tea. "Including what Quinn saw on your back. Show me."
+
+M.K. doesn't move.
+
+Tilda sighs and pulls a knife. M.K. flinches, but she just cuts the back of his shirt from collar to hem. The fabric falls open.
+
+The Widow sets her cup down. She stands and walks around the table. Her fingers trace the air above his brand, not touching. Like she can feel heat from it.
+
+"Azra," she says. "Do you know what that means?"
+
+"Sunny said it was a city. That burned."
+
+"It was. And the people who lived there..." She stops. Looks at Tilda. Tilda nods and leaves, sliding the door shut behind her.
+
+The Widow kneels so she is eye level with M.K. "They could move things without touching them. Light fires with their minds. Heal, or hurt, with a thought. The barons called it witchcraft. They called it a threat. So they killed them all. Or tried to."
+
+M.K.'s mouth is dry. "I'm not... I can't do any of that."
+
+"Not yet." The Widow touches the jade wasp on her finger. "But you will. When you're afraid enough. Or angry enough. The Gift comes in blood. That's why Quinn put you in chains. That's why I pulled you out."
+
+"So I'm a weapon to you too."
+
+"Yes." She doesn't lie. "But I will teach you to aim yourself. Quinn would use you until you broke."
+
+Footsteps run past the door. Shouts outside. The Widow stands in one motion.
+
+She slides the door open. Tilda is there, breathless.
+
+"Boats," Tilda says. "On the river. Six of them. Quinn's colors."
+
+The Widow closes her eyes for half a second. Then opens them. "How long?"
+
+"Five minutes."
+
+"Get the colts to the tunnels. Burn the maps." She looks at M.K. "You. With me. Now."
+
+M.K. stands. The tea spills. "He found us already?"
+
+"No." The Widow walks fast, not running. Running is for people who are scared. "Sunny did. He followed you. Just like you said he would."
+
+She leads him through the compound. Girls are moving, calm but quick. Rolling maps, dousing lights, slipping into holes in the floor that M.K. didn't see before.
+
+They reach a room at the back. No windows. One door. The Widow locks it behind them.
+
+She goes to a chest and opens it. Inside are clothes. Not armor. Plain tunics, trousers. She throws a set at M.K. "Change. Quickly."
+
+"Why?"
+
+"Because if Quinn's clippers find you in that collar, wearing Quinn's colt rags, they will kill you where you stand." She pulls her dress over her head. Underneath she wears fighting leathers, dyed black. "If they find you in my colors, they will take you back to Quinn. Alive. So he can do it himself."
+
+M.K. turns away and changes. The new clothes are soft. Too soft. They don't feel like armor.
+
+The Widow buckles a sword to her hip. Not a fan. A real sword, curved like Sunny's.
+
+"Listen to me," she says. "When they come through that door, you run. There is a hatch under the mat. It leads to the river. Swim downstream. My people will find you. Do not fight. Do not look back. Do you understand?"
+
+M.K. looks at her. Really looks. She is not Quinn. She is not kind. But she is not lying.
+
+"Why are you helping me?" he asks.
+
+The Widow steps close. She lifts his chin with two fingers. Her touch is cold. "Because I was Azra too, once. Before they took my name. Before I became this."
+
+A crash outside. The main door.
+
+The Widow draws her sword.
+
+"Go," she says. "Now."
+
+M.K. lifts the mat. The hatch is there. Dark. Cold.
+
+He looks at the Widow one last time.
+
+Then he drops into the dark.`
+            },
+            {
+              page: 7,
+              content: `The tunnel floods as soon as M.K. hits the water.
+
+It is not a river tunnel. It is an escape route, meant to be opened once and then left to drown. Cold water slams into his chest, stealing his breath. The collar drags him down.
+
+He kicks. The current takes him. He can't see. Can't tell up from down. Just tumbling, swallowing water, the new tunic wrapping around his arms.
+
+His lungs burn. The brand on his back feels like fire.
+
+Then his head breaks the surface.
+
+He gasps, choking. He is in the river, outside the compound wall. The current is fast here. It pulls him away from the lights, away from the shouting.
+
+On the bank, the Widow's compound burns.
+
+Not all of it. Just the main building. Quinn's clippers stand on the dock, watching it. Six boats. Thirty men. And at the front of the lead boat, standing like he owns the water, is Sunny.
+
+He is not looking at the fire. He is looking at the river.
+
+Looking for M.K.
+
+M.K. ducks under again. Lets the current carry him. When he comes up, he is around the bend. The compound is gone. Only smoke.
+
+He swims to the far bank. Coughs up river water until his ribs ache. Curls into the mud and shakes.
+
+He doesn't know how long he lies there. Minutes. Hours. The moon moves.
+
+A twig snaps.
+
+M.K. rolls, ready to run, ready to fight, ready to do anything except go back in chains.
+
+It is Tilda.
+
+She is wet. Blood runs from a cut on her temple, mixing with the white paint on her face. Her sword is gone. She carries a fan now, closed, dripping.
+
+She drops to her knees beside him. Checks his pulse. His eyes.
+
+"You're alive," she says. Like she wasn't sure.
+
+"The Widow?"
+
+Tilda's face closes. "Gone. She held the door. Gave us time. Quinn's men took the building but not the tunnels. Most of us got out."
+
+"Most."
+
+Tilda doesn't answer. She looks back up the river. "We have to move. Sunny will track us. He always does."
+
+M.K. pushes himself up. His legs shake. "She told me to swim. Said your people would find me."
+
+"I am her people." Tilda stands and offers a hand. "Can you walk?"
+
+M.K. takes her hand. It is cold. Strong. "Where are we going?"
+
+"Somewhere Quinn can't follow." She pulls him up. "Somewhere Sunny can't either."
+
+They move into the trees. The Badlands at night is different. Sounds are louder. Every shadow looks like a clipper. Every branch like a blade.
+
+Tilda sets a hard pace. No talking. Just moving. M.K.'s bare feet bleed on the stones. He doesn't complain.
+
+After an hour, she stops. Listens.
+
+Then she pushes him down behind a fallen log. Puts a finger to her lips.
+
+M.K. hears it too. Footsteps. Not one set. Three. Maybe four. Coming from the west.
+
+Tilda draws her fan. It opens with a sound like a blade leaving a sheath.
+
+The footsteps get closer. A voice, low. "Check the bank. The dog said he went in the water here."
+
+Dog. Sunny.
+
+M.K.'s heart pounds so loud he's sure they can hear it.
+
+A clipper steps into the moonlight. Young. Nervous. The same one from the Fort, the one who went to get Quinn. His hand is on his sword.
+
+He doesn't see them. He walks past the log, five feet away.
+
+Tilda moves.
+
+She is a blur. The fan flashes. The clipper makes a sound like air leaving a bellows and drops.
+
+Two more clippers crash through the brush. Tilda meets them. Steel rings. Someone shouts.
+
+M.K. should run. That's what the Widow said. Don't fight. Run.
+
+But Tilda is one against two. And she came back for him.
+
+M.K. grabs a rock.
+
+He throws it. It hits one clipper in the back of the head. The man staggers. Tilda's fan takes him across the throat.
+
+The last clipper turns and runs.
+
+Tilda doesn't chase. She stands over the bodies, breathing hard. Blood drips from her fan. She flicks it clean and closes it.
+
+She looks at M.K. "I told you not to fight."
+
+"You told me not to die." M.K. drops the rock. His hand shakes. "Is that Sunny?"
+
+Tilda listens. The woods are quiet again. "No. Sunny doesn't travel with clippers. He hunts alone." She wipes her face. The paint smears, red and white. "But he's close. He'll find these bodies. He'll know we were here."
+
+She starts walking again. East now, away from the river.
+
+M.K. follows. "Where is 'somewhere Quinn can't follow'?"
+
+"The Dead Lands." Tilda doesn't look back. "Past the border. Where the old cities died. Where the ground is poison and the barons don't go."
+
+"Why there?"
+
+"Because that's where the rest of the Azra are hiding. If any are left."
+
+M.K. stops. "You said the Widow was Azra."
+
+"She was." Tilda keeps walking. "And now she's dead. Or taken. Which means you're the last one we know about."
+
+She says it like it's a sentence.
+
+M.K. looks at his hands. River water. Mud. Blood that isn't his.
+
+He thinks of the brand on his back. Of the fire in the tunnel. Of the way his lungs burned and then didn't.
+
+Maybe the Widow was right. Maybe there is something inside him.
+
+He hopes he doesn't have to find out.
+
+He follows Tilda into the dead trees.`
+            },
+            {
+              page: 8,
+              content: `The Dead Lands earn the name.
+
+Trees stand bare, their branches twisted like broken fingers against a gray sky. The ground is ash and cracked earth. Nothing grows. No birds call. Even the wind sounds hollow here.
+
+Tilda and M.K. have been walking for two days. No food. Little water. The canteens they took from the clippers are almost empty.
+
+M.K.'s feet are cut to ribbons. The collar has rubbed his neck raw. He hasn't spoken in hours. There is nothing to say.
+
+Tilda stops at the top of a ridge. Below them is a valley. In the center of the valley is a city.
+
+Or what used to be a city.
+
+Buildings lean like drunk men. Glass towers are shattered, their steel bones exposed. Streets are choked with rusted cars and bones. A river runs through it, black and slow.
+
+"This is it," Tilda says. "The edge of Azra. Or what was Azra."
+
+M.K. stares. "People lived here?"
+
+"Millions. Before the barons. Before the wars. Before the Gift." She starts down the slope. "Watch your step. The ground is weak. And there are things in the ruins that bite."
+
+They pick their way down. The ash comes up around their ankles. It gets in M.K.'s eyes, his mouth. It tastes like old metal.
+
+The closer they get to the city, the colder it gets. Not winter cold. Grave cold.
+
+They reach the first building. It was a store once. The windows are gone. Inside, shelves lie on their sides. Plastic wrappers, faded and brittle, crunch underfoot.
+
+Tilda kicks one. "Candy. My grandmother told me about it. Sweet. Rot your teeth." She looks at M.K. "You would have liked it."
+
+M.K. doesn't answer. He is looking at a skeleton in the corner. Small. A child. Still wearing shoes.
+
+Tilda sees him looking. "The barons didn't just burn Azra. They starved it. Poisoned the water. Made sure nothing grew again."
+
+"Why?"
+
+"Because they were afraid." She moves deeper into the store. "Afraid of what people like you could do."
+
+M.K. follows. "I can't do anything."
+
+"Yet."
+
+They leave the store. The street is wide, cracked. Weeds push through the concrete, but they are black and twisted. Sick.
+
+A sound stops them both.
+
+Metal. Scraping on concrete.
+
+Tilda's fan is out in a second. M.K. picks up a piece of rebar. It is rusted but heavy.
+
+The sound comes again. From an alley between two buildings.
+
+Tilda motions M.K. to stay back. She slides along the wall, fan ready.
+
+A figure stumbles out of the alley.
+
+It is a man. Or was. His skin is gray, peeling. His eyes are milky. He wears the rags of a clipper uniform, Quinn's colors, but the fabric is rotted. One arm hangs wrong. Broken, never set.
+
+He sees them and hisses. The sound is wet. Wrong.
+
+"Scrapper," Tilda whispers. "The poison in the ground. It gets in you if you stay too long. Eats your brain. Leaves the body walking."
+
+The scrapper lurches toward them. Fast. Faster than it should be.
+
+Tilda's fan takes its head off. The body keeps coming for two steps before it falls. Black fluid pumps from the neck, not blood. It steams where it hits the ash.
+
+More sounds. From the buildings. From the alley. Scraping. Dragging.
+
+"They travel in packs," Tilda says. "We need to move. Now."
+
+They run.
+
+The city wakes up around them. Scrappers pour from doorways. From cars. From holes in the ground. Some fresh, still wearing clothes. Some old, just bone and sinew. All of them hungry.
+
+M.K. runs until his chest burns. Tilda is faster. She cuts down two scrappers without slowing.
+
+"Where?" M.K. shouts.
+
+"Center! The tower! The safe one!"
+
+M.K. sees it. A building taller than the rest. Made of stone, not glass. It stands straight while everything else leans. There are no windows on the lower floors. Only a single door, steel, hanging open.
+
+They run for it. Scrappers close in from all sides.
+
+Fifty feet.
+
+Forty.
+
+A scrapper grabs M.K.'s ankle. He goes down. The rebar flies from his hand. Teeth snap inches from his face.
+
+Tilda screams his name.
+
+M.K. punches the scrapper. His fist sinks into rotten flesh. He gags. Pushes. Rolls free.
+
+He runs. Doesn't look back.
+
+Ten feet.
+
+He dives through the door.
+
+Tilda is right behind him. She slams the steel door shut and throws the bar.
+
+The door shakes as bodies hit it. Hissing. Scratching. But it holds.
+
+They are in a stairwell. Stone. Cold. Dark. The air smells like dust and time.
+
+Tilda slides down the wall, breathing hard. Her fan is black with fluid. "Safe. They can't get in here. The stone is too thick. The barons built this to last."
+
+M.K. lies on the floor. His heart won't slow down. He looks at his hands. Black fluid is under his nails.
+
+"Why is this place safe?" he asks.
+
+Tilda looks up. Into the darkness above them.
+
+"Because this is where they kept the Azra children," she says. "Before the end. Before the fire. This was the school."
+
+M.K. sits up.
+
+The dark doesn't feel empty anymore.
+
+It feels full.`
+            },
+            {
+              page: 9,
+              content: `The school has power.
+
+Not much. Just enough for emergency lights, dim and yellow, to flicker on as Tilda hits a switch. They reveal a hallway stretching into darkness. Walls lined with lockers, all hanging open. A mural on one wall, faded but still visible: children holding hands around a painting of the earth.
+
+"Generators," Tilda says. "Solar, probably. Still working after all this time." She pushes herself up. "The Widow said if we made it here, to go to the top floor. The archive."
+
+M.K. stands. His legs feel like water. "What archive?"
+
+"The Azra kept records. Of the Gift. Of how it works. Of how to control it." She starts up the stairs. "If you're going to survive Sunny, you need to know."
+
+The stairs go up forever. Ten floors. Twenty. M.K. counts. At each landing, doors open onto empty classrooms. Desks in rows. Chalkboards covered in dust. In one room, drawings still hang on the wall. Stick figures. Suns with smiling faces. A child’s handprint in green paint.
+
+On the thirtieth floor, the stairs end. A single door waits. Metal. Like the one below, but smaller. It has a wheel lock.
+
+Tilda tries it. It doesn't move.
+
+"Locked from inside?" M.K. asks.
+
+"Or rusted shut." Tilda puts her shoulder to it. Pushes. Nothing.
+
+M.K. looks at the wheel. It is iron, pitted with age. He puts his hands on it.
+
+It is cold. Too cold. It burns his palms.
+
+He pulls his hands back. "Something's wrong with it."
+
+Tilda frowns. "What do you mean?"
+
+"Touch it."
+
+She does. Frowns. "It's just metal."
+
+M.K. shakes his head. He can still feel the cold in his bones. "Not for me."
+
+He puts his hands back on the wheel. Grits his teeth against the cold. Pushes.
+
+The wheel doesn't move.
+
+But the brand on his back ignites.
+
+Pain, white and clean, rips through him. He gasps. His vision goes white.
+
+And the wheel turns.
+
+One rotation. Two. Three.
+
+The lock clunks.
+
+The door swings open.
+
+M.K. falls back, panting. The pain is gone. The cold is gone. His hands are normal. But the brand on his back feels warm. Like a coal under his skin.
+
+Tilda stares at him. Then at the door. Then back at him.
+
+"You did that," she says. Not a question.
+
+"I... I don't know what I did."
+
+"You used the Gift." She steps through the door. "Come on."
+
+The archive is a circle. Walls lined with shelves. Shelves lined with books. Real books, paper, not screens. Thousands of them. In the center of the room is a table. On the table is a box. Wood, carved with the same symbol as M.K.'s brand. The circle cut by a line.
+
+Tilda goes to the shelves. Runs her finger along the spines. "The Widow said there was a manual. For children. 'The Gift: First Steps'. For kids who..." She pulls out a thin book. The cover is blue. The title is in silver. "For kids like you."
+
+She tosses it to M.K.
+
+He catches it. The book is light. The pages are yellowed but intact. He opens it.
+
+The first page is a drawing. A boy, maybe ten, holding his hand out. Above his palm floats a ball of light.
+
+The text below says: *Lesson 1: Feeling the Light Inside.*
+
+M.K. looks up. "This is..."
+
+"Real," Tilda says. She is at the box. She opens it.
+
+Inside, on a bed of black velvet, is a stone. White, the size of an egg. It glows faintly, like moonlight through paper.
+
+Tilda sucks in a breath. "A focus stone. The Widow said they were all destroyed." She reaches for it.
+
+"Don't," M.K. says. He doesn't know why. The word just comes out.
+
+Tilda stops. "Why?"
+
+M.K. walks to the box. The closer he gets, the warmer his back gets. The stone brightens.
+
+He picks it up.
+
+It is warm. Not hot. Not cold. Alive warm. Like holding a bird.
+
+The light from the stone spreads up his arm, under his skin, to his chest, to his brand.
+
+The room goes away.
+
+He is standing in a field. The sun is bright. The sky is blue. No ash. No poison. Children play around him. Laughing. One of them, a girl with black hair, turns and waves.
+
+"M.K.," she calls. "Come play!"
+
+He knows her. He doesn't know how, but he knows her.
+
+He takes a step toward her.
+
+Then the field burns.
+
+Fire takes the sky. The children scream. The girl reaches for him.
+
+And Quinn stands there. Younger. No cane. A sword in his hand, dripping.
+
+"Azra ends with you," Quinn says.
+
+M.K. drops the stone.
+
+He is back in the archive. On his knees. Gasping. The stone is on the floor, dark. Cold.
+
+Tilda is shaking him. "M.K.! M.K., breathe!"
+
+He breathes. Air. Dust. The smell of old paper.
+
+"What did you see?" Tilda asks.
+
+M.K. can't speak. He shakes his head.
+
+Tilda picks up the stone with a cloth. Doesn't touch it. Puts it back in the box. Closes the lid.
+
+"Okay," she says. Her voice shakes. "Okay. No more stones today. Just the book. We start with the book."
+
+M.K. looks at his hands. They are normal. But they don't feel normal.
+
+From far below, they hear it.
+
+A sound.
+
+Not scrappers.
+
+A knock.
+
+On the steel door at the bottom of the tower.
+
+Three times. Slow. Deliberate.
+
+Knock. Knock. Knock.
+
+Tilda goes pale.
+
+"He's here," she whispers.
+
+Sunny.`
+            },
+            {
+              page: 10,
+              content: `Knock. Knock. Knock.
+
+The sound climbs thirty floors of stone and dust and finds them anyway.
+
+Tilda kills the lights. The archive goes dark except for the thin gray light from the stairwell. She pushes the book into M.K.'s chest. "Hide it. And hide yourself. If he finds you-"
+
+"I know," M.K. says. "Dead or collared."
+
+"No." Tilda's face is grim in the dark. "If he finds you, he takes you to Quinn. And Quinn will cut you open to see how the Gift works."
+
+Another knock. Louder. The steel door below groans.
+
+"He can't get through that door," M.K. says. But he doesn't believe it.
+
+"Sunny gets through any door he wants." Tilda moves to the stairwell. She peers down. "He'll climb. Or he'll wait. He has patience. That's what makes him worse than the others."
+
+M.K. shoves the book into his tunic. "Then we climb down the outside. Or we fight."
+
+"We don't fight Sunny. Not yet. Not you." Tilda pulls him away from the stairs. "There's a way out. The Widow told me. On the roof. An old cable line to the next building. If it's still there."
+
+A new sound starts below. Not knocking.
+
+Cutting.
+
+Metal on metal. Slow. Steady. Like a can being opened.
+
+"He's cutting the door," Tilda says. "We have minutes."
+
+They run. Not down. Up. A ladder at the back of the archive leads to a hatch. Tilda pushes it open. Gray light and cold air pour in.
+
+The roof of the tower is flat. Cracked. Antenna arrays lie on their sides, twisted by time. And at the far edge, stretching across a hundred feet of empty air to another, shorter building, is a cable.
+
+It is thick as M.K.'s wrist. Coated in rubber that is peeling. It sags in the middle.
+
+"That?" M.K. says. "That's the way out?"
+
+"It's that or Sunny." Tilda goes to the edge. She tests the cable with her foot. It holds. "I'll go first. If it holds me, it holds you. If I fall-"
+
+"Don't fall."
+
+She gives him a look. Then she steps onto the cable.
+
+She doesn't walk. She slides, hand over hand, legs wrapped around the line. It takes her thirty seconds to cross. The cable creaks but holds.
+
+She lands on the other roof and waves. "Your turn!"
+
+M.K. looks down. The city spreads below. A thirty-story drop to concrete and ash and scrappers.
+
+The cutting sound stops.
+
+Then a new sound. Boots on stairs. Coming fast.
+
+M.K. steps onto the cable.
+
+It dips. The rubber crumbles under his hands. The wind is stronger up here. It pushes him.
+
+He slides. Hand over hand. Don't look down. Don't look down.
+
+Halfway across.
+
+A figure appears on the roof behind him.
+
+Sunny.
+
+He doesn't run to the edge. He walks. Calm. His sword is not drawn. His crimson coat is gone, but he wears black now, like the Widow. Like he is mourning.
+
+"M.K.," Sunny calls. His voice carries over the wind. "You don't have to do this."
+
+M.K. keeps sliding. The cable burns his palms.
+
+"Quinn will kill you," Sunny says. "The Widow is dead. There's no one left to protect you. But I can. Come back. I can teach you. I can keep you safe."
+
+M.K. reaches the other side. Tilda pulls him off the cable. They duck behind a concrete lip.
+
+Sunny stands on the far roof. He looks at the cable. At the drop. At them.
+
+He could jump. M.K. believes he could. Sunny is that good.
+
+But he doesn't.
+
+He just stands there. Watching.
+
+"Why isn't he coming?" M.K. whispers.
+
+"Because he's not done yet," Tilda says. "He's thinking. Sunny doesn't waste moves. If he's not chasing, it's because he has something else planned."
+
+Sunny raises his hand. Not a wave. A gesture. Two fingers to his eyes, then to M.K.
+
+*I see you.*
+
+Then he turns and walks back to the hatch. Gone.
+
+Tilda exhales. "He's going around. He'll find another way down. Another way to us."
+
+"What do we do?"
+
+"We run. And we don't stop. Not until we find the others. The other Azra. If there are any." She stands. "The book says the Gift wakes under pressure. Fear. Pain. Loss. Quinn knows that. That's why he was going to hurt you. To wake it up."
+
+M.K. touches the book through his tunic. "And Sunny?"
+
+"Sunny wants you awake too. But he wants to be the one holding your leash when it happens."
+
+She helps him up.
+
+Below them, the Dead Lands stretch to the horizon. Ash. Ruin. And somewhere, hidden, the last hope of a burned people.
+
+M.K. looks back once. At the tower. At the place where Sunny stood.
+
+Then he turns and follows Tilda into the dead city.
+
+The hunt has started.
+
+[End of Episode 1]`
             }
           ],
           cast: [
@@ -459,7 +1095,9 @@ Following.`
             { character: "Waldo", actor: "Stephen Lang" },
             { character: "Lydia", actor: "Orla Brady" },
             { character: "Jade", actor: "Sarah Bolger" },
-            { character: "Veil", actor: "Madeleine Mantock" }
+            { character: "Veil", actor: "Madeleine Mantock" },
+            { character: "The Widow", actor: "Emily Beecham" },
+            { character: "Tilda", actor: "Ally Ioannides" }
           ]
         }
       }
