@@ -1103,4 +1103,793 @@ The hunt has started.
       }
     }
   }
-}
+},
+
+  
+2: {
+          title: "The Widow's Reach",
+          synopsis: "M.K. and Tilda flee into the Dead Lands while Sunny hunts them. Quinn sends a message written in blood. M.K. learns the true cost of the Gift.",
+          cover: "/covers/s1e2.jpg",
+          pages: [
+            {
+              page: 1,
+              content: `The Dead Lands do not sleep.
+
+Even at night, the ruins groan. Steel shifts in the wind. Glass settles. And things that were men crawl through the dark, hunting heat, hunting breath, hunting anything still alive.
+
+M.K. and Tilda do not sleep either.
+
+They move through the carcass of a highway, where cars sit stacked like dead insects. The ash is knee-deep here. Each step kicks up a cloud that coats their throats and stings their eyes.
+
+Tilda walks point. Her fan is open now, held low and ready. The white paint on her face has smeared. The red line is now a jagged scar. She has not spoken in an hour.
+
+M.K. carries the book. *The Gift: First Steps*. It weighs nothing, but his tunic pocket feels like it's full of stones.
+
+"How far?" M.K. asks. His voice cracks. Two days with no real water.
+
+"To the rendezvous?" Tilda doesn't look back. "If they're alive, one more day. If they're not..."
+
+She doesn't finish. She doesn't have to.
+
+A sound stops them. Not scrappers. Not wind.
+
+A bell.
+
+One clear note, rolling through the dead city.
+
+Tilda drops into a crouch. She pulls M.K. down with her. "Quinn's clippers. Signal bell. They're sweeping the ruins."
+
+"How?" M.K. whispers. "He can't send an army in here. The poison-"
+
+"Quinn doesn't send men." Tilda's eyes scan the buildings. "He sends dogs. Clippers with nothing left to lose. Men who breathe the ash until it kills them, but not before they find what he wants."
+
+Another bell. Closer.
+
+Tilda stands. "We can't outrun them. Not with you bleeding from your feet. We hide."
+
+She pulls him toward a building. It was a bank once. The front is gone, but the vault door sits in the back, open, like a broken mouth.
+
+They slip inside. The air is colder here. Stale. Metal walls sweat condensation that runs in black lines to the floor.
+
+Tilda bars the vault door with a length of rebar. It won't hold against a real attack. But it will buy time.
+
+M.K. slides down the wall. His legs give out. "Is the Widow really dead?"
+
+Tilda sits across from him. She wipes her fan clean on her sleeve. "I saw Quinn's clippers take the compound. I saw fire. I didn't see her body."
+
+"So she could be alive."
+
+"So she could be in Quinn's Fort. In chains. Which is worse." Tilda looks at him. "She died for you, Azra. Don't waste it."
+
+The name hits him again. Azra. Not M.K. Not colt. A word that means target.
+
+"Why me?" M.K. says. "Why not you? You're her second. You can fight. I can't do anything."
+
+"Yet," Tilda says. She pulls the book from his tunic. "Lesson 1. Read it."
+
+M.K. takes the book. His hands shake. He opens to the first page. The boy with the ball of light.
+
+*Lesson 1: Feeling the Light Inside.*
+
+*The Gift is not magic. It is you. It is in your blood, your bone, your breath. To find it, you must be still. Close your eyes. Breathe. Feel your heart. Behind your heart is a door. Behind the door is the light. Do not force the door. Ask it to open.*
+
+M.K. closes his eyes.
+
+He breathes. Ash and rust and old metal.
+
+He feels his heart. Pounding. Scared.
+
+Behind his heart is nothing. Just dark. Just him.
+
+"Nothing's there," he says.
+
+"Again," Tilda says. "The Widow said it took her three days. It took me a week."
+
+M.K. tries again. Breathes. Listens.
+
+Footsteps.
+
+Outside the vault.
+
+Not scrappers. Too steady. Too measured.
+
+Boots.
+
+Tilda stands. Her fan opens with a whisper.
+
+A voice comes through the metal door. Calm. Tired. Familiar.
+
+"M.K.," Sunny says. "I know you're in there. I can smell the blood on your feet."`
+            },
+            {
+              page: 2,
+              content: `The vault becomes a tomb.
+
+Sunny's voice doesn't echo. It doesn't need to. It fills the space anyway, the way smoke fills a lung.
+
+"I don't want to hurt you," Sunny says. "Or the girl. Tilda, right? The Widow's favorite. You were seven when she took you. You killed your first man at nine. With that fan."
+
+Tilda doesn't answer. She presses herself against the wall beside the door, fan ready. She motions M.K. to move back. To the rear of the vault.
+
+M.K. crawls backward. His hands slip in something wet. He looks down. Not water. Old oil. Black and thick.
+
+"The Widow is dead, M.K.," Sunny continues. "I saw Quinn do it himself. She didn't scream. I'll give her that. But she's dead. And you have no one left."
+
+"You're lying," Tilda hisses.
+
+"Am I?" A sound outside. Metal on metal. Sunny testing the bar. "Quinn wants you alive, boy. That's more than I can say for her. Come out, and I'll make it quick. I'll tell Quinn you fought. That you died a clipper. Better than what he'll do if I drag you back."
+
+M.K. looks at Tilda. Her face is white under the paint. She's scared. She won't admit it, but she is.
+
+He looks at the book in his hand. *Ask the door to open.*
+
+He closes his eyes.
+
+Breathes.
+
+His heart. Pounding.
+
+Behind his heart...
+
+Nothing.
+
+Just fear. Just the sound of Sunny's boots shifting outside.
+
+"Last chance, M.K.," Sunny says. "Three seconds. Then I come in. And I won't be gentle."
+
+Tilda meets M.K.'s eyes. She mouths one word: *Run.*
+
+She's going to open the door. She's going to fight him. She's going to die so M.K. can run.
+
+No.
+
+M.K. doesn't know what happens next. He doesn't think. He just acts.
+
+He stands up.
+
+"Tilda, no!"
+
+He moves without moving.
+
+The brand on his back goes from warm to molten.
+
+The air in the vault *pushes*.
+
+The rebar barring the door flies backward like it was fired from a cannon. It hits the far wall and embeds itself two inches deep in the steel.
+
+The vault door explodes outward.
+
+Sunny is standing there. His sword is half-drawn. His eyes are wide. Not scared. Surprised.
+
+The blast hits him in the chest. It doesn't cut him. It doesn't burn him. It just *throws* him. Ten feet through the air, into the street. He hits the ash and rolls, coming up in a crouch, sword now fully out.
+
+Silence.
+
+M.K. stands in the doorway of the vault. His hands are out. He didn't push. But something did.
+
+His nose is bleeding. His ears ring. The brand on his back feels like someone pressed a hot iron to it.
+
+Tilda stares at him. "You..."
+
+Sunny stands slowly. He wipes ash from his mouth. He looks at M.K. Really looks. Not like a clipper looking at a colt. Like a man looking at a storm.
+
+"So it's true," Sunny says. "You are Azra."
+
+He doesn't attack. He doesn't run. He just sheathes his sword.
+
+"Quinn was right to be afraid," Sunny says. He takes one step back. Then another. "But he's not the one you should worry about."
+
+He turns and walks away. Into the ruins. Into the dark.
+
+He doesn't look back.
+
+M.K. drops to his knees. The strength goes out of him all at once. His vision swims.
+
+Tilda is beside him in a second. "Breathe. Just breathe. The first time is the worst. It takes everything."
+
+"What... what did I do?"
+
+"You opened the door," Tilda says. She touches his back, right over the brand. Her fingers are gentle. "With your mind. That's the Gift. That's Azra."
+
+M.K. wipes blood from his nose. "He let us go."
+
+"No." Tilda helps him stand. "He went to tell Quinn. To tell him what you can do. And now Quinn won't want you alive."
+
+She looks at the ruins where Sunny disappeared.
+
+"Now he'll want you in pieces. So he can study them."`
+            },
+            {
+              page: 3,
+              content: `They leave the vault before sunrise.
+
+M.K. can barely walk. The Gift took something from him. Not blood. Not muscle. Something deeper. Like he hasn't slept in a week. Like his bones are hollow.
+
+Tilda carries him when he stumbles. She doesn't complain. But her jaw is tight.
+
+"The book," M.K. mumbles. "Did I do it right?"
+
+"There is no right," Tilda says. "There's just alive and dead. You're alive. That's enough."
+
+They reach the edge of the dead city by noon. The ash gives way to hardpan. The air gets warmer. Easier to breathe.
+
+Tilda stops at a rock formation. She moves three stones, revealing a cache. Water skins. Dried meat. A cloth-wrapped bundle.
+
+She drinks first, then hands a skin to M.K. "Slow. You'll puke if you go too fast."
+
+M.K. drinks. The water is clean. It tastes like life.
+
+Tilda unwraps the bundle. Inside are two things: a map, and a fan.
+
+Not like Tilda's. This one is wood and paper, painted blue. The Widow's colors. The same symbol as M.K.'s brand is painted on it. The circle cut by a line.
+
+"She left this for you," Tilda says. "In case..." She doesn't finish. "In case."
+
+M.K. takes the fan. It is light. Balanced. It feels right in his hand, though he's never held one before.
+
+"She knew," M.K. says. "The Widow. She knew Quinn would come. She knew she might die."
+
+"She always knows." Tilda spreads the map. It is hand-drawn. It shows the Dead Lands, and past them, mountains. In the mountains, an X. "Here. Sanctuary. The last Azra stronghold. If any of them are still alive, they'll be here."
+
+"How far?"
+
+"Four days. If we don't stop. If Sunny doesn't find us." Tilda folds the map. "Which he will."
+
+M.K. looks back at the city. At the tower where he opened the door with his mind. "Why did he leave? He could have taken me."
+
+"Because Sunny doesn't lose," Tilda says. "And he didn't have a plan for what you did. So he left to make one." She stands. "And because he wants you scared. A scared animal runs. And Sunny is the best tracker in the Badlands."
+
+They move.
+
+The hardpan turns to scrub. Scrub turns to hills. The hills climb toward mountains that cut the sky in half.
+
+On the second night, they make camp in a cave. Tilda takes first watch. M.K. tries to read the book.
+
+*Lesson 2: The Cost.*
+
+*The Gift takes. Always. From your body. From your mind. From your life. Use it too much, too fast, and it will use you up. Children burn brightest. Children die fastest. To live, you must learn to take only what you need. No more.*
+
+M.K. closes the book.
+
+"What is it?" Tilda asks without turning around.
+
+"Nothing." M.K. stares into the dark. "Tilda. Did the Widow have the Gift?"
+
+Tilda is quiet for a long time. "Yes. But hers was different. She could see things. Before they happened. Sometimes. In flashes. It hurt her. Every time."
+
+"Is that why Quinn hated her?"
+
+"Quinn hates anything he can't own. And he couldn't own her future."
+
+M.K. touches his brand. It is cool now. Normal. "And me? What can I do?"
+
+Tilda finally looks at him. "I don't know. And that's what scares Quinn. That's what scares Sunny. That's what should scare you."
+
+Outside, a coyote howls.
+
+Or something pretending to be a coyote.
+
+Tilda is on her feet, fan open. "Get the book. We're moving."
+
+They don't sleep that night.
+
+On the third day, they reach the foothills. The air is thin. Cold.
+
+And they find the first body.
+
+It is a clipper. Quinn's colors. Throat cut. Not by a fan. By a sword. Clean.
+
+Tilda crouches beside him. "Not scrappers. This is fresh. A day old."
+
+M.K. looks around. There are more. Five. Six. All clippers. All killed the same way.
+
+And in the dirt, written in blood, a message:
+
+*I'M COMING*
+
+It's not addressed to M.K.
+
+It's addressed to Tilda.
+
+Sunny isn't hunting M.K.
+
+He's hunting her.`
+            },
+            {
+              page: 4,
+              content: `Tilda doesn't run.
+
+She reads the message twice. Then she wipes it away with her boot. Her face is stone.
+
+"He's trying to split us," M.K. says. "He knows you'll leave me to save yourself."
+
+"I'm not leaving you," Tilda says. But she doesn't look at him. She looks at the mountains. At the path ahead. At the path behind.
+
+"You should," M.K. says. "If he's after you, I can get to Sanctuary alone. You can-"
+
+"Sunny doesn't write messages," Tilda interrupts. "He doesn't warn. He doesn't play games." She kicks the dead clipper. "This isn't him."
+
+"Then who?"
+
+Tilda draws her fan. "Someone who wants us to think it's him."
+
+The wind picks up. It moves through the foothills, carrying the smell of smoke. Not campfire. Oil fire. Black and bitter.
+
+Tilda goes still. "That's the pass. The only way through the mountains."
+
+They run.
+
+The pass is a narrow cut in the rock, wide enough for two carts. It is the only way to Sanctuary that doesn't take a month.
+
+It is on fire.
+
+Wagons burn. Bodies burn. The smoke is so thick M.K. can't see the other side. Quinn's clippers, and others. Women in blue. The Widow's colts. All dead. All mixed together.
+
+In the center of the fire, kneeling, is a man.
+
+He is not Sunny. He is bigger. Bald. His face is a map of scars. He wears Quinn's armor, but his collar is gone. Cut away. His throat is bare.
+
+He is chanting.
+
+Tilda stops so fast M.K. runs into her.
+
+"Ryder," she whispers. The name is a curse.
+
+The big man looks up. His eyes are wrong. Yellow. Not human. "Tilda," he says. His voice is like rocks grinding. "The Widow's little bird. And the Azra pup. Quinn said you'd come."
+
+He stands. He is seven feet tall. In his hand is a hammer. The head is the size of M.K.'s chest.
+
+"Quinn cut me loose," Ryder says. "Said I could have you if I brought him the boy. Said I could do anything I wanted, as long as the boy breathed." He smiles. His teeth are filed to points. "I don't want you, little bird. I want to hear you scream."
+
+Tilda pushes M.K. behind her. "Run. Now. Through the fire. On the other side-"
+
+"There is no other side!" Ryder laughs. "I killed them all. The Widow's road is closed."
+
+M.K. looks at the fire. At the bodies. At the mountain. No way around. No way through.
+
+Unless.
+
+He touches the book in his tunic. *The Gift takes. Always.*
+
+He looks at Tilda. She is scared. Really scared. Not of Ryder. Of him. Of what he might do.
+
+"M.K., no," she says. Like she can read his mind. "You don't have the strength. Not again. Not yet. It'll kill you."
+
+"Better me than you," M.K. says.
+
+He steps past her.
+
+Ryder laughs. "The pup has teeth. Good. Come here, pup. Let me break them."
+
+M.K. closes his eyes.
+
+Breathes.
+
+His heart.
+
+Behind his heart, the door.
+
+He doesn't ask it to open.
+
+He kicks it down.
+
+The brand on his back doesn't get warm. It goes supernova.
+
+The air screams.
+
+The fire in the pass *bends*. Not out. In. It peels away from the wagons, from the bodies, and forms a wall. A wall of flame ten feet high, between M.K. and Ryder.
+
+Ryder stops laughing.
+
+The fire doesn't burn M.K. It doesn't burn Tilda. It parts around them like a curtain.
+
+M.K. opens his eyes. They are glowing. White. No pupil. No iris. Just light.
+
+He raises his hand.
+
+The wall of fire moves.
+
+It slams into Ryder.
+
+The big man screams. Not a war cry. A real scream. The kind that means the end. His armor melts. His skin melts. He swings his hammer once, blind, and then he is gone. Ash on the wind.
+
+The fire falls.
+
+The pass is clear.
+
+M.K. drops.
+
+The light goes out of his eyes. The brand goes cold. Blood runs from his nose, his ears, his eyes.
+
+He can't see. Can't hear. Can't feel his legs.
+
+Tilda's voice comes from far away. "M.K.! M.K., stay with me!"
+
+He tries to speak. Can't.
+
+The last thing he feels is Tilda's arms picking him up. And the book, falling from his tunic into the ash.
+
+Then nothing.`
+            },
+            {
+              page: 5,
+              content: `He wakes to water.
+
+Not river water. Clean water. On his lips. In his mouth. Down his throat.
+
+He chokes. Rolls. Vomits ash and blood onto stone.
+
+Hands hold him. Small hands. Gentle.
+
+"Easy," a voice says. Old. A woman's. Not Tilda. "You're safe. For now."
+
+M.K. opens his eyes.
+
+He is in a cave. But not a cave. Walls are smooth. Carved. Paint glows on the stone, paintings of the sun, of trees, of children with light in their hands.
+
+The old woman is leaning over him. Her face is a web of wrinkles. Her eyes are milky, but they see him. She wears white. No armor. No weapons. Around her neck is a stone like the one from the box. But bigger. It glows faintly.
+
+Behind her stands Tilda. Her fan is gone. Her arms are bandaged. Her face is clean. No paint. She looks younger. Scared.
+
+"Where..." M.K.'s voice is a rasp.
+
+"Sanctuary," the old woman says. "The last home of Azra. You made it, child. Barely."
+
+M.K. tries to sit up. The world spins. "How long?"
+
+"Three days," Tilda says. She doesn't come closer. "You burned out. Your heart stopped twice. If she wasn't..." She nods at the old woman. "You'd be dead."
+
+The old woman touches M.K.'s forehead. Her hand is cool. "I am called Mother. I was a teacher, before the fire. Before Quinn. Before the barons decided we were not people."
+
+M.K. looks at his hands. They are wrapped in bandages. "Ryder. The pass. The fire."
+
+"You called the flame," Mother says. "Untrained. Unready. It should have killed you. It would have, if the brand had not taken the cost for you."
+
+M.K. touches his back. The bandages there are thick. Wet. "The brand?"
+
+"The mark of Azra is not ink, child. It is a seed. Planted in you when you were born. It grows with you. It protects you. Once." Mother sits back. "Yours is burned out now. Ash. You have no more protection. Next time you use the Gift, it takes from you. Your blood. Your years. Your life."
+
+Tilda looks away.
+
+"Where's the book?" M.K. asks.
+
+"Burned," Tilda says. "In the pass. With everything else."
+
+Mother shakes her head. "The book is not important. You are." She stands. "Rest. When you can walk, we will talk. Quinn will come. Sunny will come. They know where we are now. Because of you."
+
+She leaves. The stone around her neck lights the way.
+
+Tilda stays.
+
+"You saved me," M.K. says.
+
+"You saved me first," Tilda says. "In the pass. With Ryder."
+
+"Is he..."
+
+"Dead. You turned him to ash. Like the Widow used to do." She finally looks at him. "Quinn saw the fire, M.K. All the barons did. Smoke like that, in the mountains. They know. They know an Azra is awake."
+
+"Good," M.K. says. He didn't mean to say it. But it comes out anyway. "Let them be afraid."
+
+Tilda flinches. "That's what Quinn says."
+
+M.K. closes his eyes. He is so tired.
+
+"Sunny," he says. "Where is he?"
+
+"Close," Tilda says. "He was at the pass. After. He saw the ash. He saw what you did to Ryder." She stands. "He didn't follow us here. Not yet. He's waiting."
+
+"For what?"
+
+"For you to be strong enough to be worth killing."
+
+She leaves him alone in the glowing cave.
+
+M.K. touches his back. Where the brand was. Now there is only scar tissue. And pain.
+
+He thinks of the Widow. Of the fire. Of Sunny watching from the tower.
+
+*I see you.*
+
+He sees Sunny too.
+
+And next time, he won't run.`
+            },
+            {
+              page: 6,
+              content: `Sanctuary is not a fortress.
+
+It is a wound.
+
+Carved into the heart of the mountain, it is a network of caves and tunnels and rooms that used to be classrooms, dormitories, libraries. Now it is a hospital, a graveyard, and a hiding place.
+
+There are twenty Azra left.
+
+M.K. meets them on the fourth day, when he can walk.
+
+There is Jun, who is twelve. He can move small things with his mind. Pebbles. Cups. He makes them dance for M.K., then collapses, nose bleeding.
+
+There is Eli, who is eighty. He can start fires. Tiny ones. On his fingertip. He uses it to light candles. Any more, and he faints.
+
+There is Mara, who is sixteen. She can't do anything. Not anymore. She used her Gift to stop a cave-in five years ago. Saved ten people. Now she walks with a cane. Her hair is white. Her hands shake.
+
+"See?" Tilda says as they leave Mara's room. "This is the cost. This is what you are. What you'll become."
+
+"Then why fight?" M.K. asks. "If we just die using it?"
+
+"Because if we don't, Quinn kills us anyway. But faster. And we die for nothing."
+
+Mother waits for them in the main cavern. The one with the painted ceiling. The sun and the children.
+
+She sits on the floor. No throne. No power. Just an old woman with a glowing stone.
+
+"Quinn is coming," she says. "His clippers are massing at the foothills. Three days, maybe four. He brings fire. He brings engines. He means to bury us."
+
+"How many?" Tilda asks.
+
+"Hundreds. And Sunny with them."
+
+M.K. touches the fan at his belt. The Widow's fan. Tilda gave it to him. "We can't fight hundreds."
+
+"No," Mother agrees. "So we will not. We will run. Again. As we have always run. There are tunnels. Deep. They lead to the other side of the mountains. To the sea."
+
+"We'll die in the tunnels," Tilda says. "They're not mapped. They flood. They collapse."
+
+"And we'll die here if we stay," Mother says. "At least in the tunnels, we choose how."
+
+She looks at M.K. "Unless you have another way."
+
+M.K. says nothing.
+
+Because he does.
+
+The book burned, but he remembers. *Lesson 2: The Cost.*
+
+*To live, you must learn to take only what you need. No more.*
+
+He used everything in the pass. Because he was scared. Because he was angry.
+
+What if he uses less?
+
+What if he uses just enough?
+
+"Tilda," he says. "The book. It said the Gift comes when you're afraid. Or angry. Or..."
+
+"Or when you need to protect something," Tilda finishes. "What are you protecting, M.K.?"
+
+M.K. looks at the children in the cave. At Jun. At Eli. At Mara.
+
+"Them," he says.
+
+Mother studies him. Then she nods. "Then you will need to learn. Fast. And you will need to learn from someone who has walked the path."
+
+She stands. She walks to the wall. She presses her hand to the stone.
+
+A door opens. Hidden. No seams. No hinges.
+
+Inside is a room. Small. Empty. Except for one thing.
+
+A mirror.
+
+Tall as a man. Framed in black wood. The glass is dark. Not reflecting.
+
+"Your first teacher," Mother says. "He was the strongest of us. Before Quinn. Before the fire. He went into the mirror to save us. He never came out."
+
+"Who?" M.K. asks.
+
+Mother touches the glass. It ripples, like water.
+
+A face forms in the dark. A man. Young. M.K.'s age. His face. His eyes.
+
+But older. Tired. Sad.
+
+"Me," the face says.
+
+M.K. steps back. "What is this?"
+
+"The Gift," Mother says. "At its highest. The ability to see all paths. All futures. All you. He saw the fire coming. He stepped into the mirror to find a way to stop it. He found one."
+
+"Did it work?"
+
+Mother looks at the twenty Azra left. At the caves. At the hiding.
+
+"No," she says. "But he is still looking. And now, so will you."
+
+The face in the mirror looks at M.K.
+
+"Come," it says. "We don't have much time."
+
+Tilda grabs M.K.'s arm. "Don't. People who go in don't come out."
+
+"People who don't go in die anyway," the mirror-M.K. says. "Quinn is three days away. In here, we have years."
+
+M.K. looks at Tilda. At Mother. At the door, where Quinn and Sunny and fire are coming.
+
+He thinks of the pass. Of Ryder. Of the cost.
+
+He steps toward the mirror.
+
+"Wait," Tilda says.
+
+He stops.
+
+She kisses him. Fast. Hard. Not romance. Desperation. A promise.
+
+"Come back," she says.
+
+M.K. touches his lips.
+
+Then he walks into the mirror.
+
+And the world goes white.`
+            },
+            {
+              page: 7,
+              content: `White.
+
+No sound. No heat. No cold. No up. No down.
+
+M.K. floats.
+
+Then the white breaks.
+
+He stands in the Fort. But not the Fort now. The Fort before. New. Clean. No blood on the walls.
+
+A boy runs past him. Eight years old. Black hair. Laughing.
+
+It's him.
+
+The boy runs to a man. Tall. Strong. No cane. No scar. Quinn. Young. His face open. Kind.
+
+"M.K.!" Quinn says, and he scoops the boy up. Swings him around. "Did you finish your lessons?"
+
+"Yes, Father!" the boy says.
+
+Father.
+
+The scene breaks.
+
+Now M.K. is in a field. The same field from the stone. Blue sky. Children playing. The girl with black hair is there. She hands him a flower.
+
+"For you," she says. "For your birthday."
+
+M.K. takes it. "Thanks, Penelope."
+
+Penelope.
+
+The scene breaks.
+
+Fire.
+
+Quinn, older now, stands over the girl. Penelope. She is on the ground. Not moving. Quinn's sword is red.
+
+"You made me do this," Quinn says. He is crying. "You made me choose. The barons or you. And I chose them. I always choose them."
+
+The boy, M.K., screams. The sound doesn't come out of his mouth. It comes out of the world.
+
+The ground cracks. The sky cracks.
+
+The boy's eyes go white.
+
+And the Fort burns.
+
+The scene breaks.
+
+M.K. is back in the white.
+
+The other M.K. stands across from him. The one from the mirror. Older. Tired.
+
+"Now you see," the other M.K. says. "Quinn was my father. The Baron of the Fort. The Widow was my mother. Her name was Penelope. They loved each other. Until the other barons found out. Until they said she had to die, because she was Azra. And he had to be the one to kill her. To prove his loyalty."
+
+M.K. can't breathe. "He killed my mother."
+
+"He killed everyone," the other M.K. says. "After I burned the Fort, he hunted every Azra. To kill the thing that made him kill her. To kill the thing that made him weak. He killed them, and he took their children, and he collared them, and he made them his clippers. So he could control the Gift. So it could never control him again."
+
+"Sunny," M.K. says. "Veil. Waldo."
+
+"All Azra," the other M.K. says. "All collared. All broken. Except Sunny. Sunny was never collared. Because Quinn was afraid of him. Sunny's Gift is to kill. He doesn't miss. He doesn't stop. Quinn kept him close, but free. So Sunny would kill for him. Not against him."
+
+The white starts to fade.
+
+"Wait," M.K. says. "How do we stop him? How do we stop Quinn?"
+
+"You don't," the other M.K. says. "I tried. Every path. Every future. He wins. He always wins. Because he is willing to lose everything. And we are not."
+
+"Then why am I here?"
+
+"Because there is one path he doesn't see. Because he can't imagine it." The other M.K. steps close. "You don't fight him, M.K. You forgive him."
+
+"What?"
+
+"He killed your mother. He collared you. He hunted you. And you forgive him. Not because he deserves it. Because you do. Because if you don't, you become him. And the fire never stops."
+
+The white is gone.
+
+M.K. is on his knees in the cave. In Sanctuary. The mirror is dark again.
+
+Tilda is shaking him. "M.K.! M.K., you were gone a minute! Your eyes-"
+
+"I'm here," M.K. says. His voice is hoarse.
+
+Mother kneels beside him. "What did you see?"
+
+M.K. looks at her. At Tilda. At the twenty Azra who are all that is left.
+
+"Quinn," he says. "He's my father."`
+            },
+            {
+              page: 8,
+              content: `They tell him he has a fever.
+
+Mother says it is the mirror. That it takes a piece of you each time. That the other M.K. has been in there for a hundred years, looking, and he is almost gone.
+
+M.K. doesn't argue. He drinks the water. He eats the bread. He sleeps.
+
+But he dreams of Quinn. Young. Swinging him around. Calling him son.
+
+On the second day, the scouts return.
+
+"They're at the foothills," the scout says. "Two hundred clippers. Engines. Firethrowers. And him."
+
+Sunny.
+
+"He's not leading them," the scout says. "He's watching. From the ridge. Like he's waiting for something."
+
+"For me," M.K. says.
+
+He stands. He can walk now. The pain is still there, but it is quiet. Waiting.
+
+"We go tonight," Mother says. "Into the tunnels. Before they-"
+
+"No," M.K. says.
+
+Everyone stops.
+
+"No?" Tilda says.
+
+"No tunnels," M.K. says. "No running. Quinn is my father. The clippers are my... they're like me. Collared. Azra. If we run, he hunts us. If we fight, we die. And more of us die." He looks at Mother. "You said there was one path he doesn't see."
+
+"Forgiveness," Mother says. "But M.K., he will not accept it. He will see it as weakness. He will kill you for it."
+
+"Then I die," M.K. says. "But I die me. Not him."
+
+He walks to the mouth of the cave. The sun is setting. The mountains are red.
+
+"I go alone," he says. "You take the tunnels. You go to the sea. You live."
+
+"M.K., no," Tilda says. "He'll-"
+
+"He'll listen," M.K. says. "Because I'm his son. And because I'm the only thing left of her."
+
+He takes the Widow's fan from his belt. He holds it out to Tilda.
+
+"Keep it," she says. "You'll need it."
+
+"I won't," M.K. says. "I'm not going to fight."
+
+He leaves the fan on a rock.
+
+He walks out of Sanctuary.
+
+Down the mountain.
+
+Toward the fire.
+
+Toward his father.
+
+Tilda watches him go. She doesn't follow. She doesn't stop him.
+
+She picks up the fan.
+
+And she follows anyway.`,
+            }
+          ],
+          cast: [
+            { character: "M.K.", actor: "Aramis Knight" },
+            { character: "Tilda", actor: "Ally Ioannides" },
+            { character: "Sunny", actor: "Daniel Wu" },
+            { character: "Baron Quinn", actor: "Marton Csokas" },
+            { character: "Mother", actor: "Shohreh Aghdashloo" },
+            { character: "Ryder", actor: "Dave Bautista" }
+          ]
+        },
