@@ -451,7 +451,7 @@ Behind them, far up the river, a single torch flares to life on the water.
 
 Following.`
             }
-          ]
+          
           ],
           cast: [
             { character: "Sunny", actor: "Daniel Wu" },
