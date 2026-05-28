@@ -1104,8 +1104,6 @@ The hunt has started.
     }
   }
 },
-
-  
 2: {
           title: "The Widow's Reach",
           synopsis: "M.K. and Tilda flee into the Dead Lands while Sunny hunts them. Quinn sends a message written in blood. M.K. learns the true cost of the Gift.",
