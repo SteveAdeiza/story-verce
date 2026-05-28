@@ -138,7 +138,7 @@ Waldo doesn't look back. "That depends on whether you're worth more alive than d
 The door shuts behind them. Veil stands in the empty infirmary, listening to the wheelchair wheels fade down the hall. Then she opens a drawer in her desk. Inside, wrapped in cloth, is a bone saw.
 
 She hopes she won't need it. But in the Fort, hope is the first thing that gets cut away.`
-            }
+            },
             {
               page: 3,
               content: `The main hall of the Fort was built to make men feel small.
@@ -451,7 +451,6 @@ Behind them, far up the river, a single torch flares to life on the water.
 
 Following.`
             }
-          
           ],
           cast: [
             { character: "Sunny", actor: "Daniel Wu" },
