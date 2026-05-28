@@ -1891,3 +1891,237 @@ And she follows anyway.`,
             { character: "Ryder", actor: "Dave Bautista" }
           ]
         },
+            {
+              page: 9,
+              content: `The camp is a city of fire.
+
+Tents. Engines. Cages. Clippers sharpening blades and checking firethrowers. The smell is smoke and oil and sweat.
+
+They see M.K. coming.
+
+A shout goes up. Clippers rise. Swords come out.
+
+M.K. keeps walking. Hands open. Empty.
+
+"Stop him!" someone yells. "It's the Azra!"
+
+An arrow flies. It stops a foot from M.K.'s chest. Hangs in the air. Then drops.
+
+The clippers step back.
+
+M.K. walks through them.
+
+They part for him. Not because they want to. Because they have to. Because they remember. Because deep down, under the collars and the orders, they are Azra too.
+
+He reaches the center of the camp.
+
+Quinn waits there.
+
+He sits on a chair. Not a throne. A camp chair. He has no cane. He has a sword across his knees. He is old. Older than M.K. remembered. His hair is white. His face is a map of lines. But his eyes are the same. Pale. Empty. Until they see M.K.
+
+Then they are something else.
+
+"Boy," Quinn says. His voice is sandpaper. Like it was in the courtyard. "You came. I thought you'd run. Like your mother did."
+
+"She didn't run," M.K. says. He stops ten feet from Quinn. Close enough to talk. Far enough to die. "You killed her."
+
+Quinn doesn't deny it. "I did. Because the barons said I had to. Because if I didn't, they would have burned the Fort. With you in it. I chose you."
+
+"You chose your chair."
+
+Quinn's hand tightens on the sword. "And now you come here. With your Gift. With your eyes. To do what? Kill me? Like you killed Ryder? Like you'll kill all of them?" He nods at the clippers. "They're afraid of you, boy. They should be. You're what I was afraid of. What I tried to stop."
+
+M.K. shakes his head. "I'm not here to kill you."
+
+"Then why?" Quinn stands. Slowly. The sword comes up. "Why walk into the lion's den?"
+
+M.K. looks at the clippers. At the collars on their necks. At the fear in their eyes. He looks at Sunny, standing at the edge of the firelight. Watching. Always watching.
+
+"To tell you I'm not yours," M.K. says. "The collar, the Fort, the name M.K. None of it. You gave me those. But you don't get to keep me."
+
+Quinn laughs. It is a broken sound. "So what? You'll walk away? You'll take them?" He waves the sword at the clippers. "They're mine. I made them. I fed them. I gave them purpose."
+
+"You gave them chains," M.K. says. "You took their names. You took their futures. Just like you took mine."
+
+"And what would you give them?" Quinn steps forward. "Freedom? There's no such thing. Not in the Badlands. There's only power. And those who serve it."
+
+"Then I'll serve something else," M.K. says.
+
+Quinn stops. "What?"
+
+"Her," M.K. says. "Penelope. My mother. The one you killed. I remember her now. From the mirror. She had the Gift too. She could see futures. And she chose this one. She chose you to kill her, because she saw me. She saw that I would live. That I would find them." He nods at the clippers. "That I would free them."
+
+For the first time, Quinn looks uncertain. "She... she told you that?"
+
+"She didn't have to," M.K. says. "I saw it. She loved you. Even at the end. Even when your sword was in her chest. She loved you. Because she knew you'd keep me alive. And you did."
+
+Quinn's sword lowers an inch. "Don't."
+
+"She forgave you," M.K. says. "Before you ever asked. Before you ever could."
+
+"I don't want your forgiveness," Quinn snarls. But his voice shakes. "I don't need it. From you. From her. From anyone."
+
+"I know," M.K. says. He takes a step closer. "That's why I'm giving it anyway."
+
+The camp is silent. Two hundred clippers. All watching. All listening.
+
+Sunny doesn't move. But his hand is on his sword.
+
+Quinn raises his blade. "I should kill you. Right here. Right now. End this. End you. End the Gift."
+
+"You could," M.K. says. "But you won't."
+
+"Why not?"
+
+"Because if you do, you become what the other barons wanted you to be. The man who killed his own son. And there's no coming back from that." M.K. holds Quinn's gaze. "And because you're not him. Not anymore. You're the man who chose me over the Fort. Once. You can choose me again."
+
+Quinn breathes. Once. Twice. The sword trembles.
+
+Then he drops it.
+
+It hits the dirt.
+
+"I killed her," Quinn whispers. "I killed Penelope. I told myself it was for you. For the Fort. For survival. But it was for me. Because I was afraid."
+
+"I know," M.K. says.
+
+Quinn looks up. His eyes are wet. "Can you... can you really forgive that?"
+
+M.K. thinks of the mirror. Of the other M.K. Of a hundred years of paths where he said no. Where the fire never stopped.
+
+"Yes," M.K. says. "I can."
+
+He steps forward. Into Quinn's space. Into his reach.
+
+And he hugs him.
+
+Quinn freezes. Then, slowly, his arms come up. They close around M.K. like they're afraid he'll break. Like he's the one who needs protecting.
+
+A sound runs through the clippers. Not a cheer. Not a gasp. A letting go. Collars hum. Then click. All at once. Two hundred collars, falling to the dirt.
+
+Sunny walks into the circle. He looks at Quinn. At M.K. At the collars on the ground.
+
+He pulls his sword.
+
+Everyone tenses.
+
+Sunny flips the sword. Catches it by the blade. Holds the hilt out to M.K.
+
+"Baron," Sunny says.
+
+M.K. takes the sword. It is heavy. Real.
+
+"No," M.K. says. "Not a baron. Not ever." He looks at the clippers. At the Azra. At Tilda, standing at the edge of camp with the Widow's fan in her hand. "No more barons. No more collars. No more clippers."
+
+He drives the sword into the ground. Between him and Quinn.
+
+"Just us," M.K. says. "Just people. We build something new. Together. Or we die trying."
+
+Silence.
+
+Then one clipper kneels. Then another. Then all of them.
+
+Not to M.K. Not to Quinn.
+
+To the choice.
+
+Mother walks into the camp. The other Azra behind her. The tunnels were empty. They chose this. They chose him.
+
+"Father," M.K. says to Quinn.
+
+Quinn can't speak. He just nods.
+
+And for the first time since Penelope died, he looks like the man in the mirror. The one who swung his son around and called him M.K.
+
+The one who loved.`
+            },
+            {
+              page: 10,
+              content: `Dawn comes.
+
+The camp is gone. The firethrowers are cold. The engines are silent. The clippers, now uncollared, are building something. Not a fort. Not a wall.
+
+A pyre.
+
+They lay Quinn's sword on it. And the collars. All two hundred. And the Widow's banners. And Ryder's hammer.
+
+M.K. lights it.
+
+Not with the Gift. With a torch. Because some fires should be human.
+
+The flames take it all.
+
+Quinn stands beside him. He is not a baron now. He is just a man. An old man. A father.
+
+"She would be proud," Quinn says. Looking at the fire. Looking at M.K. "Penelope. She always said you had her heart. I never saw it. Until now."
+
+"She saw a lot of things," M.K. says.
+
+"She did." Quinn is quiet. "What now?"
+
+M.K. looks at the people. His people. Azra and clippers and colts. All mixed together. No colors. No ranks. Just faces.
+
+"We go to the sea," M.K. says. "Like Mother said. We find a place. We build. Farms, not forts. Schools, not barracks. We learn the Gift, but we don't use it for war. We use it to heal. To grow. To remember."
+
+"And if the other barons come?" Tilda asks. She's beside him now. The fan at her belt.
+
+"Then we show them there's another way," M.K. says. "And if they won't see it..." He looks at Sunny. "Then we protect what's ours."
+
+Sunny nods. Once. That's all.
+
+Mother comes forward. She holds out the stone from her neck. The one that glows.
+
+"For you," she says. "The last teacher is gone. The mirror is dark. You are the first teacher now."
+
+M.K. takes it. It is warm. Alive. "I don't know how to teach."
+
+"No one does," Mother says. "Until they do."
+
+The sun is fully up now. The pyre is ash. The sea is four days east.
+
+They walk.
+
+Not as an army. As a people.
+
+Quinn walks beside M.K. He leans on him sometimes. His legs are not what they were.
+
+"I'm sorry," Quinn says, after a mile. "For everything. For the collar. For the courtyard. For her."
+
+"I know," M.K. says. "I forgive you."
+
+"I don't deserve it."
+
+"No," M.K. says. "But you have it anyway. That's what she would want. That's what I want."
+
+Quinn nods. He doesn't cry. But his hand finds M.K.'s. And holds on.
+
+Tilda falls in on M.K.'s other side. "So," she says. "What do we call you now? Baron? Teacher? King?"
+
+M.K. thinks. He looks at the stone in his hand. At the people behind him. At the road ahead.
+
+"M.K.," he says. "Just M.K. It's the only name I remember her saying. So it's the one I keep."
+
+Tilda smiles. The first real smile he's seen from her. "Just M.K.," she says. "I like it."
+
+Sunny walks behind them. Watching. Guarding. Free.
+
+The road to the sea is long. The future is longer.
+
+But for the first time since the Fort burned, since his mother died, since Quinn put a collar on his neck, M.K. is not afraid.
+
+He is not angry.
+
+He is not alone.
+
+He is home.`,
+            }
+          ],
+          cast: [
+            { character: "M.K.", actor: "Aramis Knight" },
+            { character: "Tilda", actor: "Ally Ioannides" },
+            { character: "Sunny", actor: "Daniel Wu" },
+            { character: "Baron Quinn", actor: "Marton Csokas" },
+            { character: "Mother", actor: "Shohreh Aghdashloo" },
+            { character: "Ryder", actor: "Dave Bautista" }
+          ]
+        },
