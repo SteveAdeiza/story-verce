@@ -1085,9 +1085,8 @@ Then he turns and follows Tilda into the dead city.
 
 The hunt has started.
 
-[End of Episode 1]`
-            }
-          ],
+[End of Episode 1]
+            },
           cast: [
             { character: "Sunny", actor: "Daniel Wu" },
             { character: "Baron Quinn", actor: "Marton Csokas" },
