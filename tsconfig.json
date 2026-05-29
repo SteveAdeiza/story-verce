@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"es6","lib":["dom","esnext"],"jsx":"preserve","module":"esnext","moduleResolution":"node","strict":false},"include":["**/*"]}
